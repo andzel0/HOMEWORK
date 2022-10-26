@@ -1,0 +1,93 @@
+body{
+    margin: 25px 15px;
+}
+h3{ 
+    
+    color: black;
+}
+.box{
+height: 125px;
+width: 30%;
+background-color: yellow;
+display: inline-block;
+}
+.box1{
+height: 125px;
+width: 60%;
+background-color: pink;
+display: inline-block;
+margin: 5px;
+}
+.box2{
+    height: 400px;
+    width: 30%;
+    background-color: green;
+    display: inline-block;
+    
+}
+.box3{
+    height: 125px;
+    width: 40%;
+    background-color: blue;
+    display: inline-block;
+    margin: 5px;
+}
+.box4 {
+    height: 125px;
+    width: 19.3%;
+    background-color: grey;
+    display: inline-block;
+    margin: 5px;
+    
+}
+.box5{
+    height: 125px;
+    width: 20%;
+    background-color: red;
+    display: inline-block;
+    margin: 5px;
+    bottom: 268px;
+    position: relative;
+    left: 567px;
+}
+.box6{
+    height: 125px;
+    width: 20%;
+    background-color: pink;
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    left: 178px;
+    bottom: 131px;
+    
+}
+.box7{
+    height: 262px;
+    width: 19.3%;
+    background-color: yellow;
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    bottom: 268px;
+    left: 177px;
+}
+.box8{
+    height: 125px;
+    width: 19.3%;
+    background-color: yellow;
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    bottom: 268px;
+    left: 177px;
+}
+.box9{
+    height: 125px;
+    width: 19.3%;
+    background-color: green;
+    display: inline-block;
+    margin: 5px;
+    bottom: 404px;
+    left: 1331px;
+    position: relative;
+}
