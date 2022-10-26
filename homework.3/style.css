@@ -1,0 +1,56 @@
+body{
+    height: 100%;
+}
+    .bg{
+        background-image: url(../img/778906.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    }
+
+.box{
+    background-image: url(../img/1155847.jpg);
+    width: 308px;
+    height: 450px;
+    display: inline-block;
+    position: relative;
+    left: 563px;
+    bottom: -16px;
+    
+    
+}
+.box1{
+    background-image: url(../img/s-l500.jpg);
+    width: 344px;
+    height: 500px;
+    display: inline-block;
+    position: relative;
+    bottom: -65px;
+    left: 831px;
+    
+}
+.box2{
+background-image: url(../img/YGLDENA19.jpg);
+width: 345px;
+    height: 480px;
+    position: relative;
+    bottom: 81px;
+    left: 994px;
+}
+.box3{
+background-image: url(../img/DL11-EN002.jpg);
+width: 345px;
+height: 500px;
+position: relative;
+bottom: 585px;
+left: 670px;
+}
+.box4{
+background-image: url(../img/51NOHHd6PDL._AC_SY580_.jpg);
+width: 344px;
+    height: 500px;
+    position: relative;
+    bottom: 1489px;
+    left: 835px;
+}
