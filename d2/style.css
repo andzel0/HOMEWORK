@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: gray;
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 238px;
+    height: 450px;
+    justify-content: center;
+    align-content: center;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.butn{
+    margin: 5px;
+    width: 60px;
+    border-radius: 10px;
+    background-color: rgb(165, 158, 158);
+    padding: 10px;
+}
+.slika{
+    display: flex;
+    border-radius: 10px;
+  
+}
+.kopce{
+    margin: 5px;
+    
+    border-radius: 10px;
+    padding: 10px;
+    background-color:  lightskyblue;
+}
+.hed{
+    margin: 5px;
+}
+.paragraph{
+    margin: 5px;
+}
